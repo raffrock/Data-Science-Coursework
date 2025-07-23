@@ -1,0 +1,12 @@
+---
+:id: 323022770
+:submitters:
+- :name: Rafael Chetata
+  :email: rafael.chetata85@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-04-07 03:38:57.306931000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-04-06 20:38:57.306931000 Z
+:status: processed
+:score: 15.0
